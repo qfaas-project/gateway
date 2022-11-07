@@ -1,0 +1,13 @@
+# Gateway
+gateway component for the QFaaS Project
+
+Please check `README.md` in each sub-folder for more details
+
+ - [gateway-qfaas](gateway-qfaas/): `gateway` of QFaaS Project
+ - [gateway-qfaas-post1rtt](#): under construction...
+ - [gateway-qfaas-chain-api](#): under construction...
+ - [gateway-qfaas-post1rtt-chain-api](#): under construction...
+ - [gateway-openfaas-tcp](gateway-openfaas-tcp/): original OpenFaaS `gateway` component using TCP
+ - [gateway-openfaas-tls](gateway-openfaas-tls/): original OpenFaaS `gateway` component using TLS 1.2
+ - [gateway-openfaas-tls-chain-api](#): original OpenFaaS `gateway` component using TLS 1.2, with QFaaS chain library support, under construction...
+
