@@ -25,7 +25,7 @@ docker images
     - [types/pauling.crt](types/pauling.crt): this self-signed RootCA is just for prototype testing purpose
     - [certs](certs): this self-signed certificate is just for prototype testing purpose
     - [handlers/forwarding_proxy.go](handlers/forwarding_proxy.go): forward requests by `https`
-    - [http3/client.go](vendor/github.com/lucas-clemente/quic-go/http3/client.go): please also check the `quic-go` `readme.md`
+    - [http3/client.go](vendor/github.com/lucas-clemente/quic-go/http3/client.go): please also check the `quic-go` [readme.md](vendor/github.com/lucas-clemente/quic-go/README.md)
 
 # Original OpenFaaS Readme
 
